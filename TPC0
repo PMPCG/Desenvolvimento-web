@@ -1,5 +1,18 @@
-Página principal 
-Faculde: Ual
-Aluno: 30003419
-Ano: 3º
-Turno: Diurno
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8">
+    <title>TPC0</title>
+  </head>
+  <body>
+    <h1>Página principal<h1> 
+    <h3>Faculde: Ual<h3>
+    <h3>Aluno: 30003419<h3>
+    <h3>Ano: 3º<h3>
+    <h3>Turno: Diurno<h3>
+  </body>
+</html>
+
+
+
+
